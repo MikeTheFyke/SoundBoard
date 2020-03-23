@@ -1,3 +1,3 @@
 var bleep = new Audio();
 
-bleep.src = "Cow_Moo.mp3";
+bleep.src = "./audio/Cow_Moo.mp3";
