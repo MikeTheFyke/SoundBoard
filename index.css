@@ -1,5 +1,8 @@
-.buttonNav{
-    
+#buttonNav{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
 }
 
 #submitButt{
@@ -9,4 +12,5 @@
     border-radius:50px;
     border-color:transparent;
     outline:none;
+    margin: 15px;
 }
