@@ -1,7 +1,9 @@
 var cowSound = new Audio();
+var chickenSound = new Audio();
 
 
 cowSound.src = "./audio/Cow_Moo.mp3";
+chickenSound.src = "./audio/Chicken_Sound"
 
 function cowAnimate () {
     document.getElementById("cowImg").src = "./images/RedButton.gif";
