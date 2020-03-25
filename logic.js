@@ -8,5 +8,5 @@ function cowAnimate () {
 }
 
 function buttonAnimate () {
-    document.getElementById("cowImg").src = "./images/Button.gif";
+    document.getElementById("cowImg2").src = "./images/Button.gif";
 }
