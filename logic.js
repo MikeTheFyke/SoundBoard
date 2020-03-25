@@ -25,3 +25,7 @@ function pigAnimate () {
 function sheepAnimate () {
     document.getElementById("sheepImg").src = "./images/GreenButton.gif";
 }
+
+function giraffeAnimate () {
+    document.getElementById("giraffeImg").src = "./images/RedButton.gif";
+}
