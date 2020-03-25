@@ -10,3 +10,7 @@ function cowAnimate () {
 function chickenAnimate () {
     document.getElementById("chickenImg").src = "./images/BlueButton.gif";
 }
+
+function pigAnimate () {
+    document.getElementById("pigImg").src = "./images/BlueButton.gif";
+}
