@@ -12,5 +12,5 @@ function chickenAnimate () {
 }
 
 function pigAnimate () {
-    document.getElementById("pigImg").src = "./images/BlueButton.gif";
+    document.getElementById("pigImg").src = "./images/YellowButton.gif";
 }
