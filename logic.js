@@ -27,5 +27,5 @@ function sheepAnimate () {
 }
 
 function giraffeAnimate () {
-    document.getElementById("giraffeImg").src = "./images/RedButton.gif";
+    document.getElementById("giraffeImg").src = "./images/Button.gif";
 }
