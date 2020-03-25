@@ -7,6 +7,6 @@ function cowAnimate () {
     document.getElementById("cowImg").src = "./images/RedButton.gif";
 }
 
-function buttonAnimate () {
+function chickenAnimate () {
     document.getElementById("chickenImg").src = "./images/BlueButton.gif";
 }
