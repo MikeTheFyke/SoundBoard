@@ -16,5 +16,5 @@ function pigAnimate () {
 }
 
 function sheepAnimate () {
-    document.getElementById("sheepImg").src = "./images/YellowButton.gif";
+    document.getElementById("sheepImg").src = "./images/GreenButton.gif";
 }
