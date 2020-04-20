@@ -1,0 +1,22 @@
+{
+  "name": "al19-soundboard",
+  "version": "1.0.0",
+  "description": "SoundBoard App",
+  "main": "logic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeTheFyke/SoundBoard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeTheFyke/SoundBoard/issues"
+  },
+  "homepage": "https://github.com/MikeTheFyke/SoundBoard#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
