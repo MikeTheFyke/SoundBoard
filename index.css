@@ -1,18 +1,38 @@
 #buttonContainer{
     position: fixed;
-    left: 50%;
     bottom: 0px;
-    transform: translate(-50%, -50%);
-    margin: 0 auto;
+    left: 0px;
+    width: 100vw;
     white-space: nowrap;
+    text-align: center;
+    background-color: transparent;
 }
 
 .submitButt{
     background-color:transparent;
-    width: 79px;
-    height: 79px;
+    width: 75px;
+    height: 75px;
     border-radius:50px;
     border-color:transparent;
     outline:none;
     margin: 0px 15px;
+}
+
+#playerContainer{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+}
+
+.photo{
+    width: 0px;
+    height: 0px;
+    display:hidden;
+}
+
+.player{
+    width: 100vw;
+    margin: 0px auto;
 }
