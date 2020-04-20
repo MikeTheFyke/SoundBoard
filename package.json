@@ -4,7 +4,7 @@
   "description": "SoundBoard App",
   "main": "logic.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "browser-sync start --server --files '*.css, *.html, *.js'"
   },
   "repository": {
     "type": "git",
